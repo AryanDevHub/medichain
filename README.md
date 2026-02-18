@@ -12,7 +12,7 @@ To aid the judging process, we have included the following detailed resources:
 
 ### 📄 Project Documentation
 For a complete breakdown of the problem statement, architectural details, and submission template compliance, please refer to the included PDF:
-👉 **[our_submission.pdf](./our_submission.pdf)**
+👉 **[our_submission.pdf](https://drive.google.com/drive/folders/1tWFOkjE9jnOu70TwGnj-AVD6y0t1CROp)**
 
 ### 🎥 Explanation Video
 Watch our project walkthrough and demonstration here:
